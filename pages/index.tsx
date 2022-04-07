@@ -66,7 +66,7 @@ const Index: NextPage = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/younesskhinit/discovrcrypto"
+              href="https://github.com/younesskhinit"
               className="text-xl italic font-black cursor-pointer shadow-custom-sm outline-custom-sm animate__animated animate__fadeInUp animate__delay-4s text-sky-400"
             >
               More on my GitHub
